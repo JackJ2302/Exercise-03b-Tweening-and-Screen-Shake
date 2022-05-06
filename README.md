@@ -241,6 +241,4 @@ Built using Godot 3.4.2
 Typeface changes, Music and Sound, Shaders
 
 ## Created by 
-
-Jason Francis
-```
+Jack Joseph
